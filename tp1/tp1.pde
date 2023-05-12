@@ -1,7 +1,7 @@
 //TP#1 — Variables y Condicionales 
 //Sampino Lucas
 //com3
-//tema Obra de arte electrónico
+//tema Obra de arte electrónico.
 
 int timer;
 int pantalla;
