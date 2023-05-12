@@ -7,7 +7,6 @@ int timer;
 int pantalla;
 int tamaño;
 float text3y, despY;
-float cuentaF;
 String estado; 
 PFont miFuente;
 PImage imagen0, imagen1, imagen2, imagen3, imagen4;
